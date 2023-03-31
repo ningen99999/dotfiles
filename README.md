@@ -5,3 +5,6 @@
     Font Awesome:  
         https://use.fontawesome.com/releases/v6.4.0/fontawesome-free-6.4.0-desktop.zip
         https://fontawesome.com/download
+
+[Broken Audio Fix]
+    https://bbs.archlinux.org/viewtopic.php?id=280654
