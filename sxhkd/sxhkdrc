@@ -13,6 +13,9 @@ super + F2
 super + F1
 	pactl set-sink-mute @DEFAULT_SINK@ toggle
 
+super + v
+	brave
+
 # terminal emulator
 super + Return
 	alacritty
