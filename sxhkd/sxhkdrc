@@ -14,7 +14,31 @@ super + F1
 	pactl set-sink-mute @DEFAULT_SINK@ toggle
 
 super + v
-	brave
+	firefox	
+
+super + a
+	anki
+
+super + q
+	killall xwinwrap
+
+super + shift + ctrl + alt + d
+	vwall.sh dona
+
+super + shift + ctrl + alt + u
+	vwall.sh usa
+
+super + shift + ctrl + alt + i
+	vwall.sh ii
+
+super + shift + ctrl + alt + h
+	vwall.sh hapu
+
+super + shift + ctrl + alt + a
+	vwall.sh ambient
+
+super + shift + ctrl + alt + b
+	vwall.sh ayu
 
 # terminal emulator
 super + Return
