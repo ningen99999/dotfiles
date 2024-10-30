@@ -10,7 +10,7 @@ picom &
 
 #feh --bg-fill --geometry +0-850 ~/Pictures/dona-wallpaper.jpg
 #feh --bg-fill ~/Pictures/heavens-official-blessing-wallpaper.jpg
-feh --bg-fill ~/Pictures/gray-mountain.jpg
+feh --bg-fill ~/images/gray-mountain.jpg
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 

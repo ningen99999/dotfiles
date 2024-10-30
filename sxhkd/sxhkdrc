@@ -18,7 +18,7 @@ super + v
 
 super + a
 	anki
-
+# optional vwall script commands
 super + q
 	killall xwinwrap
 
