@@ -22,22 +22,22 @@ super + a
 super + q
 	killall xwinwrap
 
-super + shift + ctrl + alt + d
+super + shift + ctrl + alt + 1
 	vwall.sh dona
 
-super + shift + ctrl + alt + u
+super + shift + ctrl + alt + 2
 	vwall.sh usa
 
-super + shift + ctrl + alt + i
+super + shift + ctrl + alt + 3
 	vwall.sh ii
 
-super + shift + ctrl + alt + h
+super + shift + ctrl + alt + 4
 	vwall.sh hapu
 
-super + shift + ctrl + alt + a
+super + shift + ctrl + alt + 5
 	vwall.sh ambient
 
-super + shift + ctrl + alt + b
+super + shift + ctrl + alt + 6
 	vwall.sh ayu
 
 # terminal emulator
